@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Strange1729
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently completed Data Science
+- 🌱completed Master In Data Science Course
  
 
 
