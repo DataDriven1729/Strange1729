@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Strange1729
-- 👀 I’m interested in Data Science
-- 🌱completed Master In Data Science Course
+👋 Hi, I’m @DataDriven1729
+👀 I’m passionate about Data Science
+🌱 I hold a postgraduate degree in Mathematics
+🌱 I have completed a Data Science training course
  
 
 
